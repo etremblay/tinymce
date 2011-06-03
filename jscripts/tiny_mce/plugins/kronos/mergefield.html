@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>{#kronos_dlg.title}</title>
+	<script type="text/javascript" src="../../tiny_mce_popup.js"></script>
+	<script type="text/javascript" src="js/mergefield.js"></script>
+	<base target="_self" />
+</head>
+<body style="display: none">
+	<div align="center">
+	<br />
+	<select id="mergefield_list" style="width:250px"></select>
+	<br />
+	<br />
+	</div>
+	<div class="mceActionPanel">
+                        <div style="float: left">
+                                <input type="button" id="insert" name="insert" value="{#insert}" onclick="AddMergeFieldDialog.insert();" />
+                        </div>
+                        <div style="float: right">
+                                <input type="button" id="cancel" name="cancel" value="{#cancel}" onclick="tinyMCEPopup.close();" />
+                        </div>
+        </div>
+
+</body>
+</html>
