@@ -1,13 +1,3 @@
-/**
- * KeyboardNavigation.js
- *
- * Copyright 2011, Moxiecode Systems AB
- * Released under LGPL License.
- *
- * License: http://tinymce.moxiecode.com/license
- * Contributing: http://tinymce.moxiecode.com/contributing
- */
-
 (function(tinymce) {
 	var Event = tinymce.dom.Event, each = tinymce.each;
 

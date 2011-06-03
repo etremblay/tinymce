@@ -1,13 +1,3 @@
-/**
- * Element.js
- *
- * Copyright 2009, Moxiecode Systems AB
- * Released under LGPL License.
- *
- * License: http://tinymce.moxiecode.com/license
- * Contributing: http://tinymce.moxiecode.com/contributing
- */
-
 (function(tinymce) {
 	/**
 	 * Element class, this enables element blocking in IE. Element blocking is a method to block out select blockes that

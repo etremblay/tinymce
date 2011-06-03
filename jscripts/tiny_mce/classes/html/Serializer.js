@@ -1,13 +1,3 @@
-/**
- * Serializer.js
- *
- * Copyright 2010, Moxiecode Systems AB
- * Released under LGPL License.
- *
- * License: http://tinymce.moxiecode.com/license
- * Contributing: http://tinymce.moxiecode.com/contributing
- */
-
 (function(tinymce) {
 	/**
 	 * This class is used to serialize down the DOM tree into a string using a Writer instance.

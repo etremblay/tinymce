@@ -1,17 +1,3 @@
-/**
- * tiny_mce_dev.js
- *
- * Copyright 2009, Moxiecode Systems AB
- * Released under LGPL License.
- *
- * License: http://tinymce.moxiecode.com/license
- * Contributing: http://tinymce.moxiecode.com/contributing
- *
- * This file should only be used while developing TinyMCE 
- * tiny_mce.js or tiny_mce_src.js should be used in a production environment.
- * This file loads the js files from classes instead of a merged copy.
- */
-
 (function() {
 	var i, nl = document.getElementsByTagName('script'), base, src, p, li, query = '', it, scripts = [];
 

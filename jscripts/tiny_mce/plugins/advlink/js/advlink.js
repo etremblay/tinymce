@@ -1,5 +1,3 @@
-/* Functions for the advlink plugin popup */
-
 tinyMCEPopup.requireLangPack();
 
 var templates = {

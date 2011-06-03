@@ -1,14 +1,4 @@
 /**
- * XHR.js
- *
- * Copyright 2009, Moxiecode Systems AB
- * Released under LGPL License.
- *
- * License: http://tinymce.moxiecode.com/license
- * Contributing: http://tinymce.moxiecode.com/contributing
- */
-
-/**
  * This class enables you to send XMLHTTPRequests cross browser.
  * @class tinymce.util.XHR
  * @static

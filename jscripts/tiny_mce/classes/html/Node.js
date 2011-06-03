@@ -1,13 +1,3 @@
-/**
- * Node.js
- *
- * Copyright 2010, Moxiecode Systems AB
- * Released under LGPL License.
- *
- * License: http://tinymce.moxiecode.com/license
- * Contributing: http://tinymce.moxiecode.com/contributing
- */
-
 (function(tinymce) {
 	var whiteSpaceRegExp = /^[ \t\r\n]*$/, typeLookup = {
 		'#text' : 3,

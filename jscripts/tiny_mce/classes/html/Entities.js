@@ -1,13 +1,3 @@
-/**
- * Entities.js
- *
- * Copyright 2010, Moxiecode Systems AB
- * Released under LGPL License.
- *
- * License: http://tinymce.moxiecode.com/license
- * Contributing: http://tinymce.moxiecode.com/contributing
- */
-
 (function(tinymce) {
 	var namedEntities, baseEntities, reverseEntities,
 		attrsCharsRegExp = /[&\"\u007E-\uD7FF]|[\uD800-\uDBFF][\uDC00-\uDFFF]/g,

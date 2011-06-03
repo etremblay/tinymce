@@ -1,14 +1,4 @@
 /**
- * Writer.js
- *
- * Copyright 2010, Moxiecode Systems AB
- * Released under LGPL License.
- *
- * License: http://tinymce.moxiecode.com/license
- * Contributing: http://tinymce.moxiecode.com/contributing
- */
-
-/**
  * This class is used to write HTML tags out it can be used with the Serializer or the SaxParser.
  *
  * @class tinymce.html.Writer

@@ -1,14 +1,4 @@
 /**
- * Separator.js
- *
- * Copyright 2009, Moxiecode Systems AB
- * Released under LGPL License.
- *
- * License: http://tinymce.moxiecode.com/license
- * Contributing: http://tinymce.moxiecode.com/contributing
- */
-
-/**
  * This class is used to create vertical separator between other controls.
  *
  * @class tinymce.ui.Separator

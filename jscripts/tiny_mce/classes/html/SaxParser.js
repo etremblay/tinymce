@@ -1,13 +1,3 @@
-/**
- * SaxParser.js
- *
- * Copyright 2010, Moxiecode Systems AB
- * Released under LGPL License.
- *
- * License: http://tinymce.moxiecode.com/license
- * Contributing: http://tinymce.moxiecode.com/contributing
- */
-
 (function(tinymce) {
 	/**
 	 * This class parses HTML code using pure JavaScript and executes various events for each item it finds. It will
