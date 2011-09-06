@@ -56,19 +56,19 @@
 			ed.addButton('kronos_mergefield', {
 				title : 'kronos.mergefield_desc', 
 				cmd : 'mceKronosMergeField',
-				image : 'media/default/icons/mergefield.png'
+				image : 'img/icons/mergefield.png'
 			});
 			
 			ed.addButton('kronos_mergepreview', {
 				title : 'kronos.mergepreview_desc', 
 				cmd : 'mceKronosMergePreview',
-				image : 'media/default/icons/merge_preview.png'
+				image : 'img/icons/merge_preview.png'
 			});
 			
 			ed.addButton('kronos_type_text_placeholder', {
 				title : 'kronos.typetextplaceholder_desc', 
 				cmd : 'mceKronosTypeTextPlaceholder',
-				image : 'media/default/icons/insert_type_text.png'
+				image : 'img/icons/insert_type_text.png'
 			});
 			
 			ed.onInit.add(function() {
