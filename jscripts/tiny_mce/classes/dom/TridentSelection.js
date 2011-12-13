@@ -1,13 +1,3 @@
-/**
- * TridentSelection.js
- *
- * Copyright 2009, Moxiecode Systems AB
- * Released under LGPL License.
- *
- * License: http://tinymce.moxiecode.com/license
- * Contributing: http://tinymce.moxiecode.com/contributing
- */
-
 (function() {
 	function Selection(selection) {
 		var self = this, dom = selection.dom, TRUE = true, FALSE = false;

@@ -1,14 +1,4 @@
 /**
- * Dispatcher.js
- *
- * Copyright 2009, Moxiecode Systems AB
- * Released under LGPL License.
- *
- * License: http://tinymce.moxiecode.com/license
- * Contributing: http://tinymce.moxiecode.com/contributing
- */
-
-/**
  * This class is used to dispatch event to observers/listeners.
  * All internal events inside TinyMCE uses this class.
  *

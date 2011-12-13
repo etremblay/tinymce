@@ -1,14 +1,4 @@
 /**
- * Container.js
- *
- * Copyright 2009, Moxiecode Systems AB
- * Released under LGPL License.
- *
- * License: http://tinymce.moxiecode.com/license
- * Contributing: http://tinymce.moxiecode.com/contributing
- */
-
-/**
  * This class is the base class for all container controls like toolbars. This class should not
  * be instantiated directly other container controls should inherit from this one.
  *
