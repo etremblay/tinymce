@@ -13,6 +13,4 @@ docs
 *.swp
 .DS_Store
 .project
-editor_plugin.js
-editor_template.js
 build-utils
